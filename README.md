@@ -2,10 +2,10 @@
 
 <b>Profile Picture:</b> The app will display a user's profile picture.
 
-<b>Name:</b> The app will display the user's full name, which will be entered by the user during the registration process.
-<b>Profession:</b> The app will allow users to enter their profession, such as software developer, graphic designer, writer, etc., and display it in their profile.<br>
-<b>Contact Number:</b> The app will allow users to enter their contact number, which will be visible to other users they connect with. <br>
-<b>Email ID:</b> The app will allow users to enter their email ID, which will be visible to other users they connect with. <br>
+<b>Name:</b> The app will display the user's full name, which will be entered by the user during the registration process. <br><br>
+<b>Profession:</b> The app will allow users to enter their profession, such as software developer, graphic designer, writer, etc., and display it in their profile.<br><br>
+<b>Contact Number:</b> The app will allow users to enter their contact number, which will be visible to other users they connect with. <br><br>
+<b>Email ID:</b> The app will allow users to enter their email ID, which will be visible to other users they connect with. <br><br>
 <br>
 
 
